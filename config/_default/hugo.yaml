@@ -1,4 +1,6 @@
 theme: hugo-story
+title: "Hugo Story"
+copyright: "2025"
 relativeURLs: 'true'
 baseURL: /
 publishDir: public
@@ -6,5 +8,34 @@ disableKinds:
   - taxonomy
   - section
 Params:
-  asset: {}
-  social: {}
+  description: "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo: "images/banner.jpg"
+  favicon: true
+  asset: 
+    fontawesome_css: ["css/fontawesome-all.min.css"]
+    fontawesome_js: ["js/fontawesome-all.min.js"]
+  social:
+    facebook: "https://facebook.com"
+    email: "caressofsteel@protonmail.com"
+    instagram: "https://instagram.com"
+  impressum:
+    title: "Impressum"
+    address: |
+      Chorylus Haslach EO</br>
+      Kuepachweg 37/E</br>
+      39100 Bozen</br>
+      Steuernummer: 800 1891 0218</br>
+      Obmann: Christian Nothdurfter</br>
+    ddl: "Ehrenamtlich tätige Organisation im Sinne des LG Nr. 11, vom 01.07.1993, eingetragen mit Dekret des Landeshauptmannes vom 30.05.1996 Nr. 198."
+    other: 
+      - name: "Copyright"
+        text: | 
+          Sämtliche Beiträge auf dieser Homepage sind urheberrechtlich geschützt.
+      - name: "Rechte"
+        text: |
+          Die bereitgestellten Informationen auf dieser Website wurden sorgfältig geprüft und werden regelmäßig aktualisiert. Es kann keine Garantie dafür übernommen werden, dass die auf dieser Website bereitgestellten Informationen vollständig, richtig oder aktuell sind. Chorylus Haslach übernimmt keine Verantwortung für den Inhalt von Seiten Dritter, welche über Links von der Website erreichbar sind. Für die Inhalte der verlinkten Seiten haftet der Anbieter der jeweiligen Website. Alle abrufbaren Informationen auf der Webseite erfolgen ohne Gewähr für Richtigkeit. Für Schäden wird keine Haftung übernommen, das gilt ebenso für alle Websites auf die mittels eines Links verwiesen wird.
+      - name: "Cookies"
+        text: |
+          Wir sammeln und verarbeiten weder persönliche Daten, noch möchten wir euch mit angepasster Werbung unterhalten.
+          
+        

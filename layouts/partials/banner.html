@@ -1,14 +1,35 @@
 <!-- Banner -->
-<section class="banner {{ .style }}">
+<section class="banner {{ .Site.Data.banner.style }}">
     <div class="content">
-        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
-        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
-        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        {{ with .button }}<ul class="actions stacked">
-            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
-        </ul>{{ end }}
+        {{ with .Site.Data.banner }}
+			<!-- <h1>{{ .title }}</h1> -->
+			<div>
+				<img src="{{ .logo }}" alt="Chorylus Logo" style="height:6em;"/>
+			</div>
+			<p class="major">{{ .subtitle | safeHTML }}</p>
+			<p>{{ .content | safeHTML }}</p>
+			<div>
+			{{ range .buttons }}
+				<a href="{{ .link }}" class="button">{{ .label }}</a>
+			{{ end }}
+			</div>
+
+        {{ end }}
+        <p>
+        <ul class="icons">
+            {{ with .Site.Params.social.facebook }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-facebook"><span class="label">Facebook</span></a></li>{{end}}
+            {{ with .Site.Params.social.github }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>{{end}}
+            {{ with .Site.Params.social.twitter }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>{{end}}
+            {{ with .Site.Params.social.instagram }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>{{end}}
+            {{ with .Site.Params.social.linkedin }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>{{end}}
+            {{ with .Site.Params.social.email }}<li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
+        </ul>
+        </p>
+
+		
     </div>
-    {{ with .image }}<div class="image">
+    {{ with .Site.Data.banner.image }}<div class="image">
         <img src="{{.}}" alt="Hugo Story" />
-    </div>{{end}}
+    {{end}}
+    </div>
 </section>
