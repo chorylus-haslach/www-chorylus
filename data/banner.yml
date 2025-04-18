@@ -9,12 +9,12 @@ subtitle: |
 content : |
   This is a <strong>Banner</strong> element, 
 buttons:
-  - label : "Get Started"
+  - label : "Aktuelles"
     link : "#first"
   - label : "second"
-    link : "#link2"
+    link : "#Mitsingen"
   - label : "hallo"
-    link : "#verein"
+    link : "#Wissenswertes"
 image : "images/banner.jpg"
 logo: "CHorylusHaslach_Logo.png"
 
