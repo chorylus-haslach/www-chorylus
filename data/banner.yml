@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Hugo Story"
 subtitle: |
-  Der Chorylus Haslach ist ein gemischter Chor, dessen Mitglieder aus Bozen und Umgebung kommen. Uns verbindet die Liebe zur Musik und zum gemeinsamen Singen.<br>
+  Der C<i>h</i>orylus Haslach ist ein gemischter Chor, dessen Mitglieder aus Bozen und Umgebung kommen. Uns verbindet die Liebe zur Musik und zum gemeinsamen Singen.<br>
   Wir singen nicht nur auf Deutsch und Englisch, sondern auch Lieder in anderen europäischen und gelegentlich sogar in außereuropäischen Sprachen. Das Repertoire des Chores war und ist breit gefächert: von Klassik bis zu Rock & Pop, vom Volkslied bis zum Gospelsong.
 #content : |
   #This is a <strong>Banner</strong> element, 

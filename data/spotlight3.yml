@@ -3,8 +3,11 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "wissenswertes"
 title : "Wissenswertes"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  
+  Seit 2016 leitet Armin Thomaser den C<i>h</i>orylus Haslach. Einer der Höhepunkte der letzten Jahre war die Uraufführung des von Armin Thomaser komponierten Musikwerkes <i>Totentanz</i>. Es wurde 2023 mit großem Erfolg aufgeführt.<br><br>
+  Gegründet wurde der Chor 1966 von Konrad Feuer als Haslacher Singkreis. Nach etwas mehr als 50 Jahren war es an der Zeit, den Chornamen zu modernisieren. Seitdem sind wir als C<i>h</i>orylus Haslach bekannt. Chorleiter waren u.a. Herbert Paulmichl, Felix Resch, Heinrich Unterhofer, Otto Chizzali, Elmar Grasser, Sandra Giovinett, Elfriede Graf und Othmar Trenner.
+
 #button: 
   #label: "Learn More"
   #link: "#"
-image: "images/spotlight03.jpg"
+image: "images/Chorcamp.png"

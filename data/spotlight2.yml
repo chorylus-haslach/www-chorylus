@@ -3,8 +3,14 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Mitsingen"
 id: "mitsingen"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  
+  Du hast Interesse, bei uns mitzusingen? So geht's:<br><br>
+  1. Melde dich und komm zu einer Schnupperprobe.<br><br>
+  2. Bei einem kurzen Vorsingen schauen der Chorleiter und ein Vorstandsmitglied, ob deine Stimme zu uns passt. Dafür brauchst du keine eigene Literatur vorzubereiten.<br><br>
+  3. Deine Stimme passt zu uns? Dann steht einer Mitgliedschaft nichts mehr im Wege! Der jährliche Mitgliedsbeitrag beträgt € 100,00.
+
+
 #button: 
   #label: "Learn More"
   #link: "#"
-image: "images/spotlight02.jpg"
+image: "images/Baum.2024.png"
