@@ -37,6 +37,6 @@ Params:
           Die bereitgestellten Informationen auf dieser Website wurden sorgfältig geprüft und werden regelmäßig aktualisiert. Es kann keine Garantie dafür übernommen werden, dass die auf dieser Website bereitgestellten Informationen vollständig, richtig oder aktuell sind. Chorylus Haslach übernimmt keine Verantwortung für den Inhalt von Seiten Dritter, welche über Links von der Website erreichbar sind. Für die Inhalte der verlinkten Seiten haftet der Anbieter der jeweiligen Website. Alle abrufbaren Informationen auf der Webseite erfolgen ohne Gewähr für Richtigkeit. Für Schäden wird keine Haftung übernommen, das gilt ebenso für alle Websites auf die mittels eines Links verwiesen wird.
       - name: "Cookies"
         text: |
-          Wir sammeln und verarbeiten weder persönliche Daten, noch möchten wir euch mit angepasster Werbung unterhalten.
-          
-        
+          Wir sammeln und verarbeiten weder persönliche Daten, 
+          noch möchten wir euch mit angepasster Werbung unterhalten.
+
