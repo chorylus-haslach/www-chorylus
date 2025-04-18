@@ -10,7 +10,7 @@ content: |
   with a number of modifiers</span>, as well as assign it an 
   optional <code>onload</code> or <code>onscroll</code> transition
   modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+#button: 
+  #label: "Learn More"
+  #link: "#"
 image: "images/spotlight01.jpg"
