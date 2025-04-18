@@ -11,10 +11,10 @@ content : |
 buttons:
   - label : "Aktuelles"
     link : "#first"
-  - label : "second"
-    link : "#Mitsingen"
-  - label : "hallo"
-    link : "#Wissenswertes"
+  - label : "Mitsingen"
+    link : "#second"
+  - label : "Wissenswertes"
+    link : "#third"
 image : "images/banner.jpg"
 logo: "CHorylusHaslach_Logo.png"
 
