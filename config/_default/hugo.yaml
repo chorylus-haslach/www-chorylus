@@ -9,7 +9,7 @@ disableKinds:
   - section
 Params:
   description: "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo: "images/banner.jpg"
+  logo: "images/flavicon_chorylus.jpg"
   favicon: true
   asset: 
     fontawesome_css: ["css/fontawesome-all.min.css"]
