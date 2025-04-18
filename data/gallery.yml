@@ -5,8 +5,8 @@ style: "style2 medium lightbox onscroll-fade-in"
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/01.jpg"
-    thumb: "images/gallery/thumbs/01.jpg"
+    image: "images/Ausflug_2024.jpg"
+    thumb: "images/Ausflug_2024.jpg"
     button: "Details"
 
   - title: "Title"
