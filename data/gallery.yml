@@ -4,11 +4,16 @@ style: "style2 medium lightbox onscroll-fade-in"
   #This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
 # for thumb 250px height
 pictures:
+  - title: "Hoffnung"
+    content: "Karfreitagsandacht, Kalvarienberg, April 2025."
+    image: "images/gallery/fulls/hoffnung.jpg"
+    thumb: "images/gallery/thumbs/hoffnung.1.jpg"
+    button: "Details"
 
   - title: "Gospel Concert"
     content: "Jesus is King - Gospel Concert. November 2024 (Fotograf: Reinhold Plunger)."
     image: "images/gallery/fulls/Gospel.jpg"
-    thumb: "images/gallery/thumbs/gospel.1.jpg"
+    thumb: "images/gallery/thumbs/gospel.4.jpg"
     button: "Details"
 
   - title: "Sei wie ein Baum"
