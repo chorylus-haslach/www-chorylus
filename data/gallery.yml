@@ -4,6 +4,12 @@ style: "style2 medium lightbox onscroll-fade-in"
   #This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
 # for thumb 250px height
 pictures:
+  - title: "Twilight"
+    content: "Konzertreihe rund um Zwielicht und Zwischenwelten, Oktober 2025 (Fotograf: Reinhold Plunger)."
+    image: "images/gallery/fulls/Twilight.jpg"
+    thumb: "images/gallery/thumbs/Twilight.jpg"
+    button: "Details" 
+
   - title: "Gemütlich"
     content: "Untereggerhof Gummer, Juni 2025."
     image: "images/gallery/fulls/Abschlussessen2025.jpg"
