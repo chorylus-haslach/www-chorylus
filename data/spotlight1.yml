@@ -3,13 +3,14 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "aktuelles"
 title : "Aktuelles"
 content: |
-  Die Welt ist voller Gegensätze: Tag-Nacht, Licht-Schatten, Leben-Tod. Und dazwischen? Da gibt es das Zwielicht, die Dämmerung, die Zwischenwelten.<br><br>
-  TWILIGHT - ein musikalisches Projekt rund um Zwielicht und Zwischenwelten - dieses Projekt haben wir erfolgreich abgeschlossen.<br><br>
   ... die Ermittlungen laufen ...<br><br>
-  Ein spannendes Projekt ist in Ausarbeitung.<br><br>
+  Ein spannendes Projekt rund um das Thema KRIMI ist in Ausarbeitung.<br><br>
   Lasst euch überraschen!<br><br>
-  Mehr dazu in Kürze ...<br>
+  Freitag, 08.05.2026 - Kellerei Bozen<br>
+  Mittwoch, 13.05.2026 - Tannerhof Girlan<br>
+  Sonntag, 17.05.2026 - Gemeinschaftszentrum Haslach<br><br>
+  jeweils um 20:00 Uhr<br>
 #button: 
   #label: "Learn More"
   #link: "#"
-image: "images/Frau.Twilight.jpg"
+image: "images/Krimi.jpg"
