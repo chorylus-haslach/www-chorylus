@@ -4,13 +4,22 @@ id: "aktuelles"
 title : "Aktuelles"
 content: |
   ... die Ermittlungen laufen ...<br><br>
-  Ein spannendes Projekt rund um das Thema KRIMI ist in Ausarbeitung.<br><br>
-  Lasst euch überraschen!<br><br>
+  
+  ACHTUNG!!<br><br>
+  Drei Tatorte.<br><br>
+  Wir sichern die Beweise.<br>
+  Sichere du dir den Termin.<br><br>
+
+  
   Freitag, 08.05.2026 - Kellerei Bozen<br>
-  Mittwoch, 13.05.2026 - Tannerhof Girlan<br>
-  Sonntag, 17.05.2026 - Gemeinschaftszentrum Haslach<br><br>
-  jeweils um 20:00 Uhr<br>
+  Mittwoch, 13.05.2026 - Kellerei Bozen<br>
+  Sonntag, 17.05.2026 - Pfarrzentrum Haslach<br><br>
+  jeweils um 20:00 Uhr<br><br>
+  
+  ... ein spannendes Projekt rund um das Thema KRIMI.<br><br> 
+  
+   Lasst euch überraschen!
 #button: 
   #label: "Learn More"
   #link: "#"
-image: "images/Krimi.jpg"
+image: "images/Std_Krimi26.jpg"
